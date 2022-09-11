@@ -1,0 +1,2 @@
+C:\Users\achar\OneDrive\Desktop\C++\Pong\Pong\Debug\Pong.vcxproj.CopyComplete
+C:\Users\achar\OneDrive\Desktop\Projects\C++\Pong\Pong\Debug\Pong.vcxproj.CopyComplete
